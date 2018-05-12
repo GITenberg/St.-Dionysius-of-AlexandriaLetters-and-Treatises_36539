@@ -1,0 +1,36 @@
+_repo: St.-Dionysius-of-AlexandriaLetters-and-Treatises_36539
+_version: 0.1.0
+alternative_title: 'Saint Dionysius of Alexandria: Letters and Treatises'
+contributor:
+  translator:
+    agent_name: Feltoe, Charles Lett
+    alias: Feltoe, C. L. (Charles Lett)
+    gutenberg_agent_id: '38338'
+    url: http://www.gutenberg.org/2009/agents/38338
+covers:
+- cover_type: archival
+  image_path: 36539-h/images/cover.png
+creator:
+  author:
+    agent_name: Dionysius, of Alexandria, Saint
+    aliases:
+    - Dionysius, Alexandrinus, Saint
+    - Denis, of Alexandria, Saint
+    deathdate: 265
+    gutenberg_agent_id: '38337'
+    url: http://www.gutenberg.org/2009/agents/38337
+description: ''
+gutenberg_issued: '2011-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36539'
+  lccn: '19010547'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600 -- Sources'
+- !lcc 'BR'
+title: 'St. Dionysius of Alexandria: Letters and Treatises'
+url: http://www.gutenberg.org/ebooks/36539
